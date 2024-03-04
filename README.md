@@ -1,2 +1,2 @@
 # test
-Test repository for Clean Code Course
+This is a test repository for course "Clean Code, Documentation & Version Control" by unibas/RISE
